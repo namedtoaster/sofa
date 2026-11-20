@@ -142,6 +142,8 @@
       [
         "expo-image-picker",
         {
+          "photosPermission": "Sofa uses your photo library to set your profile picture.",
+          "cameraPermission": false,
           "microphonePermission": false
         }
       ],
